@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Repos component renders App 1`] = `
+<ul>
+  User Repos:
+  <li
+    key="https://github.com/peepthemoon/repos"
+  >
+    https://github.com/peepthemoon/repos
+  </li>
+</ul>
+`;
