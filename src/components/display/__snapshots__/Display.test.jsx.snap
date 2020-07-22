@@ -1,0 +1,26 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Display component renders App 1`] = `
+<div>
+  <p>
+    Name: 
+    Rachel Donahue
+  </p>
+  <p>
+    Username: 
+    PeepTheMoon
+  </p>
+  <p>
+    Follower Count: 
+    4
+  </p>
+  <p>
+    Following Count: 
+    5
+  </p>
+  <p>
+    Profile link: 
+    https://github.com/peepthemoon
+  </p>
+</div>
+`;
